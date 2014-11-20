@@ -3,3 +3,9 @@ http://refcardz.dzone.com/refcardz/getting-started-eclipse#refcard-download-soci
 http://stackoverflow.com/questions/11807698/how-to-retrieve-only-certain-fields-of-an-entity-in-jpql-or-hql-what-is-the-equ
 http://stackoverflow.com/questions/20758398/join-multiple-tables-in-hql
 http://stackoverflow.com/questions/4836599/how-do-i-port-query-with-join-across-multiple-tables-from-jdoql-to-hql
+http://stackoverflow.com/questions/70324/java-inner-class-and-static-nested-class
+http://www.ntu.edu.sg/home/ehchua/programming/howto/Tomcat_More.html
+http://stackoverflow.com/questions/1368166/what-is-a-difference-between-super-e-and-extends-e
+http://www.mulesoft.com/tcat/tomcat-ssl
+http://www.simplecodestuffs.com/difference-between-and-signs-in-struts2/
+http://holowczak.com/database-normalization/
