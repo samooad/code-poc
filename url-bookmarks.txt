@@ -1,0 +1,5 @@
+http://eclipsesource.com/blogs/2013/01/08/effective-java-debugging-with-eclipse/
+http://refcardz.dzone.com/refcardz/getting-started-eclipse#refcard-download-social-buttons-display
+http://stackoverflow.com/questions/11807698/how-to-retrieve-only-certain-fields-of-an-entity-in-jpql-or-hql-what-is-the-equ
+http://stackoverflow.com/questions/20758398/join-multiple-tables-in-hql
+http://stackoverflow.com/questions/4836599/how-do-i-port-query-with-join-across-multiple-tables-from-jdoql-to-hql
