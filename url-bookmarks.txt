@@ -9,3 +9,9 @@ http://stackoverflow.com/questions/1368166/what-is-a-difference-between-super-e-
 http://www.mulesoft.com/tcat/tomcat-ssl
 http://www.simplecodestuffs.com/difference-between-and-signs-in-struts2/
 http://holowczak.com/database-normalization/
+http://stackoverflow.com/questions/746531/is-it-wrong-to-change-a-block-element-to-inline-with-css-if-it-contains-another
+http://books.sonatype.com/mvnex-book/reference/public-book.html
+http://www.jakpsatweb.cz/css/css-vertical-center-solution.html
+http://stackoverflow.com/questions/311654/public-free-web-services-for-testing-soap-client
+http://sourcemaking.com/antipatterns-book
+http://stackoverflow.com/questions/10538010/why-extends-precedes-implements-in-class-declaration
