@@ -15,3 +15,8 @@ http://www.jakpsatweb.cz/css/css-vertical-center-solution.html
 http://stackoverflow.com/questions/311654/public-free-web-services-for-testing-soap-client
 http://sourcemaking.com/antipatterns-book
 http://stackoverflow.com/questions/10538010/why-extends-precedes-implements-in-class-declaration
+
+http://www.barik.net/archive/2006/03/28/195425/
+http://dev.mysql.com/doc/sakila/en/sakila-installation.html
+https://dev.mysql.com/doc/employee/en/employees-installation.html
+http://www.postgresqltutorial.com/postgresql-sample-database/
