@@ -1,0 +1,53 @@
+<!--
+For questions, ask us on [Slack](https://vscodevim-slackin.azurewebsites.net/) 👫. 
+DONT CHANGE ANYTHING UNTIL THE -----. Thanks!
+-->
+
+* Click *thumbs-up* 👍 on this issue if you want it!
+* Click *confused* 😕 on this issue if not having it makes VSCodeVim unusable. 
+
+The VSCodeVim team prioritizes issues based on reaction count. 
+
+--------
+
+**Is this a BUG REPORT or FEATURE REQUEST?** (choose one): Bug Report
+
+<!--
+If this is a BUG REPORT, please:
+  - Fill in as much of the template below as you can.  If you leave out
+    information, we can't help you as well.
+
+If this is a FEATURE REQUEST, please:
+  - Describe *in detail* the feature/behavior/change you'd like to see.
+
+If we can't reproduce a bug or think a feature already exists, we
+might close your issue.  If we're wrong, PLEASE feel free to reopen it and
+explain why.
+-->
+
+**Environment**:
+
+<!--
+Please ensure you are on the latest VSCode + VSCodeVim
+-->
+
+- **VSCode Version**: 1.13.0
+- **VsCodeVim Version**: 0.8.6
+- **OS**: MacOS Sierra 10.12.3
+
+**Use Case**:
+`
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+`
+
+
+**What happened**:
